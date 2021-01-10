@@ -1,0 +1,22 @@
+{
+    "name": "node-image-squareify",
+    "description": "A script to `squareify` images",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piman51277/node-image-squareify"
+    },
+    "author": "piman",
+    "bugs": {
+        "url": "https://github.com/piman51277/node-image-squareify/issues"
+    },
+    "homepage": "https://github.com/piman51277/node-image-squareify",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^2.6.1",
+        "pngjs": "^6.0.0"
+    }
+}
